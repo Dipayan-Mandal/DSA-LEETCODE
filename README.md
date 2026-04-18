@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0234-palindrome-linked-list) |
 ## String
 |  |
 | ------- |
@@ -24,8 +25,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0020-valid-parentheses) |
+| [0234-palindrome-linked-list](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0234-palindrome-linked-list) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0001-two-sum) |
+## Linked List
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0234-palindrome-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
