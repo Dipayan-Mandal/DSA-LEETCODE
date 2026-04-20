@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0001-two-sum) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0084-largest-rectangle-in-histogram) |
 | [0189-rotate-array](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0189-rotate-array) |
 ## Math
 |  |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0020-valid-parentheses) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0084-largest-rectangle-in-histogram) |
 | [0234-palindrome-linked-list](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0234-palindrome-linked-list) |
 ## Hash Table
 |  |
@@ -38,4 +40,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0234-palindrome-linked-list) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
