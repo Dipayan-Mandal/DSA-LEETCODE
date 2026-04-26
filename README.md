@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0001-two-sum) |
+| [0078-subsets](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0084-largest-rectangle-in-histogram) |
 | [0189-rotate-array](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0189-rotate-array) |
 | [0622-design-circular-queue](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0622-design-circular-queue) |
@@ -82,4 +83,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0950-reveal-cards-in-increasing-order) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
