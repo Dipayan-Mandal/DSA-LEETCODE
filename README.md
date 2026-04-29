@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0020-valid-parentheses) |
+| [0038-count-and-say](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0038-count-and-say) |
 | [0649-dota2-senate](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0649-dota2-senate) |
 ## Stack
 |  |
