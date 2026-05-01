@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0038-count-and-say) |
+| [0205-isomorphic-strings](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0205-isomorphic-strings) |
 | [0649-dota2-senate](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0649-dota2-senate) |
 ## Stack
 |  |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0001-two-sum) |
+| [0205-isomorphic-strings](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0205-isomorphic-strings) |
 ## Linked List
 |  |
 | ------- |
