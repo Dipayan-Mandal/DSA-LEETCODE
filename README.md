@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0084-largest-rectangle-in-histogram) |
+| [0088-merge-sorted-array](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0189-rotate-array) |
 | [0622-design-circular-queue](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0622-design-circular-queue) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0950-reveal-cards-in-increasing-order) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0234-palindrome-linked-list) |
 ## String
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0950-reveal-cards-in-increasing-order) |
 ## Backtracking
 |  |
