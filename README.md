@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0014-longest-common-prefix) |
 | [0031-next-permutation](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0031-next-permutation) |
 | [0039-combination-sum](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0039-combination-sum) |
+| [0075-sort-colors](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0088-merge-sorted-array) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0031-next-permutation) |
+| [0075-sort-colors](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0234-palindrome-linked-list) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0950-reveal-cards-in-increasing-order) |
 ## Backtracking
