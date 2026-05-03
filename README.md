@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0084-largest-rectangle-in-histogram) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0867-transpose-matrix) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -128,5 +130,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
