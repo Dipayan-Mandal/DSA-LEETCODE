@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0088-merge-sorted-array) |
+| [0118-pascals-triangle](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0118-pascals-triangle) |
 | [0189-rotate-array](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0189-rotate-array) |
 | [0622-design-circular-queue](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0622-design-circular-queue) |
 | [0867-transpose-matrix](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0867-transpose-matrix) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0042-trapping-rain-water) |
+| [0118-pascals-triangle](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0118-pascals-triangle) |
 ## Matrix
 |  |
 | ------- |
