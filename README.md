@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0014-longest-common-prefix) |
 | [0031-next-permutation](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0031-next-permutation) |
 | [0039-combination-sum](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0039-combination-sum) |
+| [0042-trapping-rain-water](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0084-largest-rectangle-in-histogram) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0189-rotate-array) |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0232-implement-queue-using-stacks) |
@@ -68,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0084-largest-rectangle-in-histogram) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Design
@@ -112,4 +116,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0014-longest-common-prefix) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
