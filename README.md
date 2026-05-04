@@ -148,4 +148,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
+## Tree
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0543-diameter-of-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0543-diameter-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
