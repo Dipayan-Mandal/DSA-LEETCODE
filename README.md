@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0038-count-and-say) |
 | [0205-isomorphic-strings](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0205-isomorphic-strings) |
+| [0257-binary-tree-paths](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0257-binary-tree-paths) |
 | [0649-dota2-senate](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0649-dota2-senate) |
 ## Stack
 |  |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0078-subsets) |
+| [0257-binary-tree-paths](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0257-binary-tree-paths) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -153,18 +155,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0100-same-tree) |
 | [0226-invert-binary-tree](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0100-same-tree) |
 | [0226-invert-binary-tree](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0100-same-tree) |
 | [0226-invert-binary-tree](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
