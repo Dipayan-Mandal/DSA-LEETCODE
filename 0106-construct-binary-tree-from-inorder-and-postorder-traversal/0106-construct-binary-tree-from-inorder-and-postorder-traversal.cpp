@@ -25,7 +25,7 @@ public:
             i++;      
         }
         int left=i-inl;
-        int right=inh-(i+1);
+        //int right=inh-(i+1);
         root->left=helper(in,inl,i-1,post,postl,postl+left-1);
         root->right=helper(in,i+1,inh,post,postl+left,posth-1);
         return root;
