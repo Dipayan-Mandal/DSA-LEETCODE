@@ -15,7 +15,7 @@ public:
         
         preorder(root,ans);
         
-        for(int i=0;i+1<ans.size();i++)
+        for(int i=0;i+1<ans.size();i++) //When ans.size() == 0, this becomes:0 - 1
         {
             ans[i]->right=ans[i+1];
             ans[i]->left=NULL;
