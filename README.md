@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0060-permutation-sequence) |
 | [0069-sqrtx](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0189-rotate-array) |
+| [0633-sum-of-square-numbers](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0633-sum-of-square-numbers) |
 ## Two Pointers
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0234-palindrome-linked-list) |
+| [0633-sum-of-square-numbers](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0658-find-k-closest-elements) |
 ## String
 |  |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0069-sqrtx](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0069-sqrtx) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
+| [0633-sum-of-square-numbers](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0852-peak-index-in-a-mountain-array) |
