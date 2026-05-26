@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-score-after-flipping-matrix](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0861-score-after-flipping-matrix) |
 | [0867-transpose-matrix](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0875-koko-eating-bananas) |
+| [0912-sort-an-array](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0912-sort-an-array) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0242-valid-anagram) |
 | [0658-find-k-closest-elements](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0658-find-k-closest-elements) |
+| [0912-sort-an-array](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0912-sort-an-array) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0950-reveal-cards-in-increasing-order) |
 ## Backtracking
 |  |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
+| [0912-sort-an-array](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0912-sort-an-array) |
 ## Tree
 |  |
 | ------- |
@@ -295,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0658-find-k-closest-elements](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0658-find-k-closest-elements) |
+| [0912-sort-an-array](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0912-sort-an-array) |
 ## Quickselect
 |  |
 | ------- |
@@ -303,4 +307,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0658-find-k-closest-elements) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
