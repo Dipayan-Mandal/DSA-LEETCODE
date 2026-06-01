@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0950-reveal-cards-in-increasing-order](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1480-running-sum-of-1d-array](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/1480-running-sum-of-1d-array) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Math
@@ -346,4 +347,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0912-sort-an-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
