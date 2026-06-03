@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/1480-running-sum-of-1d-array) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/1944-number-of-visible-people-in-a-queue) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Math
 |  |
 | ------- |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0455-assign-cookies) |
 | [0649-dota2-senate](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0649-dota2-senate) |
 | [0861-score-after-flipping-matrix](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0861-score-after-flipping-matrix) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Sorting
 |  |
 | ------- |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0658-find-k-closest-elements) |
 | [0912-sort-an-array](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0912-sort-an-array) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0950-reveal-cards-in-increasing-order) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Backtracking
 |  |
 | ------- |
@@ -212,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -354,5 +358,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0238-product-of-array-except-self) |
 | [1480-running-sum-of-1d-array](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/1480-running-sum-of-1d-array) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/2483-minimum-penalty-for-a-shop) |
 <!---LeetCode Topics End-->
