@@ -20,7 +20,7 @@ public:
                     while (arr[i] == 1)
                         i++;
                     i++;
-                    j++;
+                    flip--;
                 }
             }
         }
