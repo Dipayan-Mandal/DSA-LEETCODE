@@ -11,17 +11,13 @@ public:
         while (j < n) {
             product*= nums[j];
             while (product >= k) {
-                count += (j - i);
+               // count += (j - i);
                 product/=nums[i];
                 i++;
             }
-                j++;
-            }
-             while (i<n) {
-                count += (j - i);
-                product/=nums[i];
-                i++;
-            }
+            count += (j - i + 1);
+            j++;
+        }
             return count;
         }
     };
