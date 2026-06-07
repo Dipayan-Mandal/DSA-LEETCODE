@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1052-grumpy-bookstore-owner](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/1052-grumpy-bookstore-owner) |
 | [1402-reducing-dishes](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/1402-reducing-dishes) |
 | [1480-running-sum-of-1d-array](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/1480-running-sum-of-1d-array) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/2389-longest-subsequence-with-limited-sum) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0118-pascals-triangle](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0118-pascals-triangle) |
 | [1402-reducing-dishes](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/1402-reducing-dishes) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Matrix
 |  |
 | ------- |
@@ -351,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
 | [1052-grumpy-bookstore-owner](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/1052-grumpy-bookstore-owner) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Merge Sort
 |  |
 | ------- |
