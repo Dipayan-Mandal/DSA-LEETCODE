@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/1944-number-of-visible-people-in-a-queue) |
+| [2326-spiral-matrix-iv](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/2326-spiral-matrix-iv) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Math
 |  |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0237-delete-node-in-a-linked-list) |
 | [0622-design-circular-queue](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0622-design-circular-queue) |
 | [0876-middle-of-the-linked-list](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0876-middle-of-the-linked-list) |
+| [2326-spiral-matrix-iv](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/2326-spiral-matrix-iv) |
 ## Recursion
 |  |
 | ------- |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0867-transpose-matrix) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [2326-spiral-matrix-iv](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/2326-spiral-matrix-iv) |
 ## Greedy
 |  |
 | ------- |
@@ -230,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
 | [0861-score-after-flipping-matrix](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0861-score-after-flipping-matrix) |
 | [0867-transpose-matrix](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0867-transpose-matrix) |
+| [2326-spiral-matrix-iv](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/2326-spiral-matrix-iv) |
 ## Binary Search
 |  |
 | ------- |
