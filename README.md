@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2326-spiral-matrix-iv](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/2326-spiral-matrix-iv) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/2389-longest-subsequence-with-limited-sum) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/2744-find-maximum-number-of-string-pairs) |
 ## Math
 |  |
 | ------- |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0257-binary-tree-paths) |
 | [0649-dota2-senate](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0649-dota2-senate) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/2483-minimum-penalty-for-a-shop) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/2744-find-maximum-number-of-string-pairs) |
 ## Stack
 |  |
 | ------- |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/2744-find-maximum-number-of-string-pairs) |
 ## Linked List
 |  |
 | ------- |
@@ -179,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0950-reveal-cards-in-increasing-order](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2326-spiral-matrix-iv](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/2326-spiral-matrix-iv) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/2744-find-maximum-number-of-string-pairs) |
 ## Greedy
 |  |
 | ------- |
