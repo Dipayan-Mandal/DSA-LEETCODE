@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1052-grumpy-bookstore-owner](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/1052-grumpy-bookstore-owner) |
+| [1207-unique-number-of-occurrences](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/1207-unique-number-of-occurrences) |
 | [1402-reducing-dishes](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/1402-reducing-dishes) |
 | [1480-running-sum-of-1d-array](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/1480-running-sum-of-1d-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [1207-unique-number-of-occurrences](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/1207-unique-number-of-occurrences) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/2744-find-maximum-number-of-string-pairs) |
 ## Linked List
