@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0257-binary-tree-paths) |
 | [0649-dota2-senate](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0649-dota2-senate) |
+| [1657-determine-if-two-strings-are-close](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/1657-determine-if-two-strings-are-close) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/2744-find-maximum-number-of-string-pairs) |
 ## Stack
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1207-unique-number-of-occurrences](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/1207-unique-number-of-occurrences) |
+| [1657-determine-if-two-strings-are-close](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/1657-determine-if-two-strings-are-close) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/2744-find-maximum-number-of-string-pairs) |
 ## Linked List
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0950-reveal-cards-in-increasing-order](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0973-k-closest-points-to-origin](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0973-k-closest-points-to-origin) |
 | [1402-reducing-dishes](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/1402-reducing-dishes) |
+| [1657-determine-if-two-strings-are-close](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/1657-determine-if-two-strings-are-close) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Backtracking
 |  |
@@ -440,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0912-sort-an-array) |
+| [1657-determine-if-two-strings-are-close](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/1657-determine-if-two-strings-are-close) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 ## Prefix Sum
 |  |
