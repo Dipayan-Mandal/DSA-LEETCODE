@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-reducing-dishes](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/1402-reducing-dishes) |
 | [1480-running-sum-of-1d-array](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/1480-running-sum-of-1d-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2326-spiral-matrix-iv](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/2326-spiral-matrix-iv) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1207-unique-number-of-occurrences](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/1207-unique-number-of-occurrences) |
+| [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/1657-determine-if-two-strings-are-close) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/2744-find-maximum-number-of-string-pairs) |
@@ -443,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0912-sort-an-array) |
+| [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/1657-determine-if-two-strings-are-close) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 ## Prefix Sum
