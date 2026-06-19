@@ -10,7 +10,7 @@
  */
 class Solution {
 public:
-    ListNode* merge(ListNode* list1, ListNode* list2) {
+     ListNode* merge(ListNode* list1, ListNode* list2) {
         ListNode* a = list1;
         ListNode* b = list2;
         ListNode* temp=new ListNode(100);
@@ -36,13 +36,13 @@ public:
     }
 
     ListNode* mergeKLists(vector<ListNode*>& lists) {
-        if(lists.size()==0) return NULL;
+        if(lists.size()==0) return 0;
         while(lists.size()>1){
-        ListNode* list1=lists[0];
+        ListNode* a=lists[0];
         lists.erase(lists.begin());
-        ListNode* list2=lists[0];
+        ListNode* b=lists[0];
         lists.erase(lists.begin());
-        ListNode* c= merge(list1,list2);
+        ListNode* c=merge(a,b);
         lists.push_back(c);
         }
         return lists[0];
