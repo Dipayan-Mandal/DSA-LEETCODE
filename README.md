@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [1710-maximum-units-on-a-truck](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/1710-maximum-units-on-a-truck) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2326-spiral-matrix-iv](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/2326-spiral-matrix-iv) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/2389-longest-subsequence-with-limited-sum) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0649-dota2-senate](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0649-dota2-senate) |
 | [0861-score-after-flipping-matrix](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0861-score-after-flipping-matrix) |
 | [1402-reducing-dishes](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/1402-reducing-dishes) |
+| [1710-maximum-units-on-a-truck](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/1710-maximum-units-on-a-truck) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Sorting
 |  |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0973-k-closest-points-to-origin) |
 | [1402-reducing-dishes](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/1402-reducing-dishes) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/1657-determine-if-two-strings-are-close) |
+| [1710-maximum-units-on-a-truck](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/1710-maximum-units-on-a-truck) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Backtracking
 |  |
