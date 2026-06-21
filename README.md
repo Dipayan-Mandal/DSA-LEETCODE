@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-score-after-flipping-matrix](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0861-score-after-flipping-matrix) |
 | [0867-transpose-matrix](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0875-koko-eating-bananas) |
+| [0881-boats-to-save-people](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0912-sort-an-array) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0973-k-closest-points-to-origin](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0973-k-closest-points-to-origin) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0658-find-k-closest-elements) |
 | [0876-middle-of-the-linked-list](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0876-middle-of-the-linked-list) |
+| [0881-boats-to-save-people](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0881-boats-to-save-people) |
 ## String
 |  |
 | ------- |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0649-dota2-senate](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0649-dota2-senate) |
 | [0861-score-after-flipping-matrix](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0861-score-after-flipping-matrix) |
+| [0881-boats-to-save-people](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0881-boats-to-save-people) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1402-reducing-dishes](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/1402-reducing-dishes) |
 | [1710-maximum-units-on-a-truck](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/1710-maximum-units-on-a-truck) |
@@ -246,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0455-assign-cookies) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0658-find-k-closest-elements](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0658-find-k-closest-elements) |
+| [0881-boats-to-save-people](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0912-sort-an-array) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0973-k-closest-points-to-origin](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0973-k-closest-points-to-origin) |
