@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0257-binary-tree-paths) |
 | [0649-dota2-senate](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0649-dota2-senate) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/1657-determine-if-two-strings-are-close) |
+| [2182-construct-string-with-repeat-limit](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/2182-construct-string-with-repeat-limit) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/2744-find-maximum-number-of-string-pairs) |
 ## Stack
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/1207-unique-number-of-occurrences) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/1657-determine-if-two-strings-are-close) |
+| [2182-construct-string-with-repeat-limit](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/2182-construct-string-with-repeat-limit) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/2744-find-maximum-number-of-string-pairs) |
 ## Linked List
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1402-reducing-dishes](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/1402-reducing-dishes) |
 | [1710-maximum-units-on-a-truck](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/1710-maximum-units-on-a-truck) |
+| [2182-construct-string-with-repeat-limit](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/2182-construct-string-with-repeat-limit) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Sorting
 |  |
@@ -434,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/1046-last-stone-weight) |
+| [2182-construct-string-with-repeat-limit](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/2182-construct-string-with-repeat-limit) |
 ## Quickselect
 |  |
 | ------- |
@@ -473,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0912-sort-an-array) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/1657-determine-if-two-strings-are-close) |
+| [2182-construct-string-with-repeat-limit](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/2182-construct-string-with-repeat-limit) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 ## Prefix Sum
 |  |
