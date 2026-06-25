@@ -1,0 +1,139 @@
+# Rolling Variables (Previous-Current Update Pattern)
+
+### Definition
+
+A technique used to keep track of the last one or more values without storing all previous values.
+
+### Pattern
+
+```cpp
+previous = current;
+current = newValue;
+```
+
+### Example
+
+```cpp
+fidx = sidx;
+sidx = idx;
+```
+
+After every update:
+
+* `fidx` = previous critical point index
+* `sidx` = current/latest critical point index
+
+This allows comparing consecutive values.
+
+### When to use
+
+* Consecutive element comparison
+* Linked list traversal
+* Streaming data
+* Dynamic Programming optimizations
+* Sliding window (tracking previous values)
+
+### Example Trace
+
+Critical point indices:
+
+```
+2, 5, 8, 10
+```
+
+Updates:
+
+```
+Initial:
+fidx = -1
+sidx = -1
+
+idx = 2
+fidx = -1
+sidx = 2
+
+idx = 5
+fidx = 2
+sidx = 5
+
+idx = 8
+fidx = 5
+sidx = 8
+
+idx = 10
+fidx = 8
+sidx = 10
+```
+
+Distance between consecutive critical points:
+
+```cpp
+mind = min(mind, sidx - fidx);
+```
+
+### Remember
+
+This is commonly called the **Rolling Variables** or **Previous-Current Update** pattern. It reduces space complexity by keeping only the latest required values instead of storing an entire array.
+
+
+
+# First-Time Initialization (Sentinel Value Pattern)
+
+### Definition
+
+Use a special value (called a **sentinel value**) to determine whether a variable has been initialized. On the first occurrence, initialize it; on later occurrences, update another variable or perform different logic.
+
+### Pattern
+
+```cpp
+if (first == SENTINEL)
+    first = value;
+else
+    // handle subsequent values
+```
+
+### Example
+
+```cpp
+if (fidx == -1)
+    fidx = idx;
+else
+    sidx = idx;
+```
+
+### Meaning
+
+* `fidx == -1` → No critical point has been found yet.
+* First critical point → Store it in `fidx`.
+* Every later critical point → Update `sidx` (which eventually becomes the last critical point).
+
+### Trace
+
+Critical point indices:
+
+```
+2, 5, 8, 10
+```
+
+| Current idx | fidx | sidx |
+| ----------- | ---- | ---- |
+| 2           | 2    | 0    |
+| 5           | 2    | 5    |
+| 8           | 2    | 8    |
+| 10          | 2    | 10   |
+
+Result:
+
+* `fidx` = first critical point
+* `sidx` = last critical point
+
+### When to use
+
+* Finding the first occurrence.
+* Initializing min/max values.
+* Recording the first index that satisfies a condition.
+* Distinguishing between "not found yet" and "already found."
+
+### Remember
+
+This pattern is commonly known as the **Sentinel Value Pattern** or **First-Time Initialization Pattern**.
