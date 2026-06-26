@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0622-design-circular-queue](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0622-design-circular-queue) |
 | [0876-middle-of-the-linked-list](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/0876-middle-of-the-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+| [2074-reverse-nodes-in-even-length-groups](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/2074-reverse-nodes-in-even-length-groups) |
 | [2326-spiral-matrix-iv](https://github.com/Dipayan-Mandal/DSA-LEETCODE/tree/master/2326-spiral-matrix-iv) |
 ## Recursion
 |  |
