@@ -12,11 +12,10 @@ public:
         }
         for(int i=0;i<n;i++)
         {
-            int idx=q.front();
+            ans[q.front()] = deck[i];
             q.pop();
             q.push(q.front());
             q.pop();
-            ans[idx]=deck[i];
         }
         return ans;
     }
