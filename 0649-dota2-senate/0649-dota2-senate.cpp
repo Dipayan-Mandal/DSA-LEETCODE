@@ -1,45 +1,46 @@
 class Solution {
 public:
-    string predictPartyVictory(string s) {
+    string predictPartyVictory(string arr) {
         queue<int> q;
         queue<int> r;
         queue<int> d;
-        for (int i = 0; i < s.length(); i++) {
+        int n=arr.size();
+        for(int i=0;i<n;i++)
+        {
             q.push(i);
-            if (s[i] == 'R')
-                r.push(i);
-            else
-                d.push(i);
+            if(arr[i]=='R')
+            r.push(i);
+            else d.push(i);
         }
-        while (q.size() > 0) {
-            if (s[q.front()] == 'X')
-                q.pop();
-            else if (s[q.front()] == 'R') {
-                if (d.size() == 0)
-                    return "Radiant";
-                else {
-                    s[d.front()] = 'X';
+        while(r.size() && d.size())
+        {
+            if(arr[q.front()]=='R')
+            {
+                if(r.front()==q.front())
+                {
+                    arr[d.front()]='x';
                     d.pop();
                     q.push(q.front());
                     q.pop();
                     r.push(r.front());
                     r.pop();
                 }
-
-            } else {
-                if (r.size() == 0)
-                    return "Dire";
-                else {
-                s[r.front()] ='X';
-                r.pop();
-                q.push(q.front());
-                q.pop();
-                d.push(d.front());
-                d.pop();
+            }
+            else if(arr[q.front()]=='x') q.pop();
+            else if(arr[q.front()]=='D')
+            {
+                if(d.front()==q.front())
+                {
+                    arr[r.front()]='x';
+                    r.pop();
+                    q.push(q.front());
+                    q.pop();
+                    d.push(d.front());
+                    d.pop();
                 }
             }
         }
-        if(s[q.front()]=='R') return "Radiant";
+        if(r.size()!=0) return "Radiant";
         else return "Dire";
     }
 };
